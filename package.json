@@ -1,0 +1,11 @@
+
+{
+  "name": "novareels-ai",
+  "version": "1.0.0",
+  "description": "NovaReels AI Video Studio",
+  "private": true,
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {}
+}

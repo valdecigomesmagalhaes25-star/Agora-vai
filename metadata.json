@@ -1,0 +1,8 @@
+{
+  "name": "NovaReels - AI Video Studio",
+  "description": "Uma plataforma ultra-moderna de vídeos curtos com criação de conteúdo impulsionada por IA generativa (Veo 3.1). Explore, curta e crie vídeos cinematográficos em segundos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
